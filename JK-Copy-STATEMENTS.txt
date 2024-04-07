@@ -1,0 +1,44 @@
+Monthly Statement for account
+Account Number: 456109801804	Customer Name: J. L. Picard	Starting Balance: 0.00
+
+
+Timestamp: 23482	Payment Type: Cash	Amount: 105.00
+
+Timestamp: 23460	Merchant: Sid's Lids	Payment Type: Purchase	Amount: 132.75
+
+Total Purchases: 132.75
+Total Payments: 105.00
+Final Balance: -27.75
+
+****************************************************************************************************
+
+Monthly Statement for account
+Account Number: 982340982348	Customer Name: Spacely Sprockets	Starting Balance: 29109.14
+
+
+Timestamp: 23670	Payment Type: Check	Amount: 20000.00
+
+Timestamp: 23458	Merchant: Peter's Plastics	Payment Type: Purchase	Amount: 416.92
+
+Timestamp: 23472	Merchant: Mort's Metals	Payment Type: Purchase	Amount: 17293.14
+
+Timestamp: 23460	Payment Type: Credit	Amount: 10000.00
+
+Total Purchases: 17710.059999999998
+Total Payments: 30000.00
+Final Balance: 41399.08
+
+****************************************************************************************************
+
+Monthly Statement for account
+Account Number: 234987234981	Customer Name: J. T. Kirk & Co.	Starting Balance: 298.18
+
+
+Timestamp: 23456	Merchant: Culvers	Payment Type: Purchase	Amount: 14.72
+
+Total Purchases: 14.72
+Total Payments: 0.00
+Final Balance: 283.46
+
+****************************************************************************************************
+
