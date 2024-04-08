@@ -13,7 +13,7 @@ The program was designed to simulate the processing of bank account transactions
 2. Open your IDE of choice (DrRacket)
 3. Ensure that Both **ACCOUNT.TXT** and **TRANSACTIONS.txt** are located in the same folder as the program you are going to run.
 4. Press Run on the IDE.
-5. Return to the folder and open the new STATEMENTS.txt file. (You may need to refresh the folder in order to see the document after pressing run) 
+5. Return to the folder and open the new STATEMENTS.txt file. ~~(You may need to refresh the folder in order to see the document after pressing run)~~ This was fixed by #:exists 'replace
 
 ### To Do: 
 1: Fix the rounding issue for Spacely Sprockets
