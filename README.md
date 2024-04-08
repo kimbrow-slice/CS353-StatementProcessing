@@ -17,6 +17,7 @@ The program was designed to simulate the processing of bank account transactions
 
 ### To Do: 
 1: Fix the rounding issue for Spacely Sprockets
+2: Add transaction Line numbers ( #10001 )
 
 ### Console Instructions after file is ran
 ![Console Instructions after user runs the program](/ConsoleOutputForInstructions.png)
